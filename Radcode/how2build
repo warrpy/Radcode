@@ -1,0 +1,15 @@
+---------------------------------- HOW2BUILD ----------------------------------
+
+This project uses the Apache Ant build tool.
+
+-------------------------------------------------------------------------------
+
+sudo apt-get install ant
+
+-------------------------------------------------------------------------------
+
+Open a terminal in the project folder that contains "build.xml"
+and write the command "ant", then press enter.
+
+-------------------------------------------------------------------------------
+
