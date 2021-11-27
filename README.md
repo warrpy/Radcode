@@ -32,7 +32,7 @@ swap(DefaultListModel<String> arg, int swap_from, int swap_to) void
 swap(ArrayList<String> arg, int swap_from, int swap_to) void
 
 fill(DefaultListModel<String> to_fill, ArrayList<String> fill_from) void
-// Filling the element
+// Filling the array
 fill(ArrayList<String> to_fill, DefaultListModel<String> fill_from) void
 
 fill(DefaultListModel<String> to_fill, String[] fill_from) void
